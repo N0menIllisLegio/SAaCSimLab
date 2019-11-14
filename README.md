@@ -9,6 +9,8 @@
 
 На схеме условно обозначены:
 
+<img src="ReadmeImg/legend.png" width="48">
+
 ![Легенда](ReadmeImg/legend.png)
 
 * Р<sub>отк</sub> – вероятность отказа;  
