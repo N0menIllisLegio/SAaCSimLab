@@ -9,7 +9,7 @@
 
 На схеме условно обозначены:
 
-<img src="ReadmeImg/legend.png" width="450">
+<img src="ReadmeImg/legend.png" width="500">
 
 * Р<sub>отк</sub> – вероятность отказа;  
 * А – абсолютная пропускная способность; 
